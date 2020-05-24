@@ -1,6 +1,6 @@
 # This code should be used for the PyBank homework for the Rice Bootcamp, May 2020.
 # Requires a set of finanical data called budget_data.csv in the Resources sub folder.
-# The dataset should compose of two columns, Date and Profit/Losses.
+# The dataset should compose of two colums, Date and Profit/Losses.
 # Uses lists.
 
 #1 Import modules
